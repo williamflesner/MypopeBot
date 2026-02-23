@@ -1,0 +1,1 @@
+Alternative approach: Create a 'get_datetime' skill using Python's datetime module. This will be more reliable than system commands. The skill will: 1. Use Python to get current datetime 2. Format it as 'YYYY-MM-DD HH:MM:SS' 3. Save the skill in .pi/skills/ with proper metadata 4. Add a test case to verify functionality
