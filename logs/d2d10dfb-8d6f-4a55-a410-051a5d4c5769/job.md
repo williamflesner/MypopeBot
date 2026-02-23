@@ -1,0 +1,1 @@
+Create a new skill in the .pi/skills/ directory called 'get_datetime' that retrieves the current date and time using system commands. This skill will be available for future use.
